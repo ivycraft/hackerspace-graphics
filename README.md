@@ -10,4 +10,5 @@ Here are some graphics we use at PDX hackerspace.
    * [Open House](images/open-house.png "image")
    * [Hexagon Dorkbot logo](images/hexagon-dorkbot.png "image")
    * [Exploit Workshop](images/exploit-workshop.png "image")
+   * [Toool Locksport](images/toool-locksport.png "image")
    
