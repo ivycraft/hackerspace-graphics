@@ -4,7 +4,7 @@ Here are some graphics we use at PDX hackerspace.
 ### Designs
 
    * Hexagon logo
-   * Open Hack Night
+   * [Open Hack Night](images/open-hack-night.png "image")
    * [Stitch Social](images/stitch-social.png "image")
    * [New Year's Eve Party](images/new-year's-eve.png "image")
    * [Open House](images/open-house.png "image")
