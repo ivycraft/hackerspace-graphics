@@ -11,4 +11,5 @@ Here are some graphics we use at PDX hackerspace.
    * [Hexagon Dorkbot logo](images/dorkbot-hexagon.png "image")
    * [Exploit Workshop](images/exploit-workshop.png "image")
    * [Toool Locksport](images/toool-locksport.png "image")
+   * [Micro Python Starter Class](images/micro-python-starter-class.png "image")
    
